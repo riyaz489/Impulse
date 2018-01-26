@@ -1,0 +1,71 @@
+
+/* 
+    Created on : Jul 13, 2017, 11:15:12 AM
+    Author     : Riyazuddin khan
+*/#lnk{background-color: rgba(100%,100%,100%,0.3);   
+    height: 30%;
+       width: 23%;
+       margin-top: 30%;
+       margin-left: 45.65%;
+       box-shadow:1px 5px 9px 9px rgba(100%,100%,100%,0.5);
+       
+     transform: rotate(270deg);
+      
+}
+     
+html{
+background:url('bac2.jpg');
+background-size: 100% 65%;
+font-size:13pt;
+background-position:fixed;
+background-repeat:no-repeat;
+
+font-family:"Comic Sans MS", cursive, sans-serif;}
+
+h2{font-family:"Lucida Sans Unicode";}
+
+#lin{
+margin-top:40px;
+}
+
+#content{
+ overflow :auto;
+display:block;
+ border:0px;
+text-align:left;
+margin-right:80%;
+color:#FFF;
+width:31%;
+position:absolute;
+top:39%;
+left:15%;
+word-spacing:3px;
+
+
+}
+
+input[type="button"]{
+margin-top:90px;
+background-color:#3Fb2ff;
+border-radius:2em;
+border-width:0;
+color:#FFFFFF;
+width:11em;
+height:2.5em;
+font-weight:bold;
+}
+#frm{
+box-shadow:4px 10px 12px 14px rgba(0,0,0,0.45);
+             
+overflow :auto;
+bottom:70px;
+width:35% !important;
+height:79% !important;
+background-color:#fff;
+scrolling:auto;
+border-radius:1%;
+position:absolute;
+top:35%;
+right:12%;
+
+}

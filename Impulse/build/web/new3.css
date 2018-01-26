@@ -1,0 +1,42 @@
+input[type="submit"]{
+margin-top:30px;
+margin-left: 4%;
+background-color:#3Fb2ff;
+border-radius:2em;
+border-width:0;
+color:#FFFFFF;
+width:11em;
+height:2.5em;
+font-weight:bold;
+}
+
+body{
+font-family:"Lucida Sans Unicode";
+ overflow :auto;
+word-spacing:1px;
+margin-left: 10%;
+margin-top: 3%;
+}
+#hed{color:#ed131d;
+bottom:5px;
+font-weight:700;
+font-size:25;
+}
+
+input[type="text"],input[type="password"],input[type="email"],
+select{
+
+height:6.3%;
+margin-left: 10%;
+margin-top:2%;
+border-radius:1em;
+border-width:0.3px;
+}
+
+a{margin-left: 4%;
+}
+/* 
+    Created on : Jul 13, 2017, 11:15:45 AM
+    Author     : Riyazuddin khan
+*/
+

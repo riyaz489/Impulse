@@ -1,0 +1,18 @@
+SMAP
+updAct_jsp.java
+JSP
+*S JSP
+*F
++ 0 aheader.jsp
+aheader.jsp
++ 1 updAct.jsp
+updAct.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,14:50
+1#1,8:63
+8,42:71
+5#2,55:113
+49#1,2:168
+*E
