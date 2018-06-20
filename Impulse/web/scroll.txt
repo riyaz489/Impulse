@@ -13,7 +13,7 @@ button {
 </head>
 <body>
 
-<p>Click the button to scroll the document window by 100px horizontally.</p>
+<p>Click the button to scrollyyyyyyyyyyyyyyyy the document window by 100px horizontally.</p>
 
 <p>Look at the horizontal scrollbar to see the effect.</p>
 
